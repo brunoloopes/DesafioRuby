@@ -9,4 +9,4 @@ sobrenome = gets.chomp
 print "Digite sua idade: "
 idade = gets.chomp
 
-puts "Olá Seu nome e: #{nome.to_s} #{sobrenome.to_s} e sua idade e: #{idade.to_i}"
+puts "Olá Seu nome é: #{nome.to_s} #{sobrenome.to_s} e sua idade é: #{idade.to_i}"
